@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73749032667",
+    "project_id": "forteenstreetpizza",
+    "storage_bucket": "forteenstreetpizza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73749032667:android:197f753b773a7f8cd966fe",
+        "android_client_info": {
+          "package_name": "com.forteenstreet.forteenstreetpizza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDZMcD7v-EgXkY0MDN3i-Qzu-6HP2FkSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

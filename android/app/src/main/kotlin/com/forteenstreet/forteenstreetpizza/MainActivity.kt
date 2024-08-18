@@ -1,0 +1,6 @@
+package com.forteenstreet.forteenstreetpizza
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
